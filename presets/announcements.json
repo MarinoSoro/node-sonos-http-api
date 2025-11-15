@@ -1,0 +1,17 @@
+{
+  "players": [
+    {
+      "roomName": "Kantoor",
+      "volume": 30
+    },
+    {
+      "roomName": "Keuken",
+      "volume": 30
+    }
+  ],
+  "playMode": {
+    "shuffle": true,
+    "crossfade": false,
+    "repeat": "none"
+  }
+}
