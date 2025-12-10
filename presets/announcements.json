@@ -2,11 +2,11 @@
   "players": [
     {
       "roomName": "Kantoor",
-      "volume": 30
+      "volume": 70
     },
     {
       "roomName": "Keuken",
-      "volume": 30
+      "volume": 70
     }
   ],
   "playMode": {
